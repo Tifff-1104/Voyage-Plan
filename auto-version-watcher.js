@@ -98,5 +98,5 @@ class GitAutoVersion {
 
 
 // 使用前需要修改这个路径
-const watcher = new GitAutoVersion('/Users/tiffany/Desktop/travel-planner/');  // 改成你的项目路径
+const watcher = new GitAutoVersion('/Users/tiffany/Desktop/Voyage-Plan/');  // 改成你的项目路径
 watcher.start();
